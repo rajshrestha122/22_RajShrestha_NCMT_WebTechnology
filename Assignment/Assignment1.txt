@@ -1,0 +1,100 @@
+1) Define the  term "Protocol" in the context of the internet.
+ans= Protocol is a standard set of rules mantaining how data is formatted, transmitted, received and
+interpreted between devices and systems. for examples http,ftp,tcp/ip ect.
+
+2) what is the primary difference between a web browser and a search engine?
+ans= A web browser is the software you use to access and view websites,while a search engine is a 
+website or service within the browser that finds other website and information for you by indexing 
+the web.
+
+3) Define the World Wide Web(WWW).
+ans=  WWW stands for the vast system of interconnected documents accessed through internet using 
+hyperlinks to share scientific info , and now a core part of the internet for general information 
+access.
+
+4) Distinguish between a static web page and a dynamic web page.
+ans= Static pages serve fixed,  pre-built content that appears the same for every visitor, while 
+dynamic web pages  generate content content in realtime often tailored to user interaction or
+information from a database.
+
+5) Explain the Client-Server architecture of the web with a neat daigram.
+ans=  Client-Server architecture is a model where tasks are split between client and server  over a
+network using a request-response pattern.
+IT is centralize which makes us to manage easily,securely and create backups of data on the
+server .It  can handel many users by adding more server power which dristributess
+workload,allowing many clients to use shared resources for efficiency.
+
+6) Describe the functions of the following internet services:Email,FTP and VoIP.
+and= Mentioned internet services are foundational internert services with distinct primary functions
+
+Email(Electronic Mail): The primary function of email is to allow users to send,receive and manage 
+digital messages and attachments over the internet.It serves as a near instaneous, global communication
+method enabling both  personal and professional correspondences.
+
+FTP(File Tranfer Protocol): FTPs core function  is to facilitate the transfer of file between a client and 
+a server on a computer network. It is primamrilyy used for uploading webpages,images and other document 
+to a websites server or for downloading large software files or data backups.
+
+VoIP(Voice over IP): the function  of VoIP is to provide voice communication and multimedia sessions over
+internt protocol networks. It translate voice signals into digital data packets and sends them across the
+network, enabling phone calls,video conferencing and other collaborative services to be made using an 
+internet conncetion instead of traditional phone lines.
+
+
+7) "The Internet is a network of networks". Elaborate on this statement explaining how packet switching 
+works.
+Ans= The internet isn't a single,monolithic entity. Instead it is a vast decentralied collection of 
+LANs,MANs and WANs belonging to homes,business,government,universities and internet service Provider.
+These diverse network are linked together through devices like routers and switches, which  communicate
+using the copmmon Internet Protocol Suite(TCP/IP). This creates a structure where structure where data 
+can seamlessly flow from a device on one local network to a device on another regardless of the underlying 
+physical technologies. so internet is called as the network of networks.
+
+Packet switching works by breacking data into small packets,adding header into (Sourc,destination.sequence)
+sending them independently across shared network paths via routers(swhich find the best route), then 
+reassembling them at the destination,allowing for efficient resources sharing and fault tolerance as packet 
+can take different routes to avoid congestion.
+
+8) A startup company wants to host a website that displays the same information to all visitors and requires
+very low maintainance costs. However,they are being advised to use a dynamic website.As a consultant,would you
+agree? Justify your answer
+Ans= As an consultant I would never agree with that advice of using dynamic website in this case because a startup
+company need a website that displays the same information to all visitors and require very ow maintainance cost 
+points directly to a static website solution.
+static websites are pre built files served directly to users.They donot involve server side processing for 
+each reqquest.whereas dynamic websites generate content on the fly based on user requests,server side scripts and
+databasees.and  it is more complex to operate and maintainance is higher than static websitesand somehow
+it has also more potential vulnerablities that need constant monitoiring and patching.and accordingly 
+static website is low maintainance withn high performance and more enhanced  security with cost effective 
+hostingand they handle traffick spikes easily because serving static files is less resources intensive
+thus static website will be more suitable for this case.
+
+9) A user types www.google.com into their browser, but the browser displays a ”Server Not
+Found” error, even though the internet connection is active. However, accessing the site
+via 142.250.190.46 works. Diagnose the problem and explain the underlying technology
+that failed.
+Ans= the problem is on Domain NAme System. the user can access google's website using its ip address but not its domain name 
+it indicate that the internet connection is working and googles server is operational and reachable. the issue is 
+in the translatiion process from the human readable domain name  to the machine readable ip address
+ in this case Server not found error means that the DNS  resolution process failed. COmputers DNS resolver could not 
+successfully transate www.google.com into ip address
+acc. to google possible reason for DNS failure includes 
+incorect DNS server configuration , corrupted DNS cache , ISP DNS Issue, blockage of DNS  by Firewall and due to malware
+
+since accessing the site via the ip address woorks, we knmow the probles is not with googles server or users general 
+internet conncetion. The failure is specifically is in the DNS lookup process  that translate the domain name to its 
+corresponding ip adress.
+
+
+10) A multinational corporation wants to share sensitive inventory data with specific suppliers
+but does not want this information available to the general public. Explain which network
+type (Intranet, Extranet, or Internet) they should implement and why.
+Anss= If corporation wnats to share data withoout leaking information to general public, then they should use or implem,ent
+Extranet.Because Extranet offers the prefect balance between accesibilityy and securuty for this scenario
+on this the corporation can grant specific login credentials and permissiona ensuring only authorix eperson can access those data.
+Extra net are protected byy firewalls,encryptions abd other security protocols safeguarding the sensitive data/information  from unauthorize 
+access by general public.
+extranet facilitate secure colaboration and data exhange data without exposing internal system or data to the wiber network 
+and extra net is more  cost effective network  for this case  so in my POV they should implement Extranet due to reasons mentioned abive.
+
+

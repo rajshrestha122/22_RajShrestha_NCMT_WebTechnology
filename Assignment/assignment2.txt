@@ -1,0 +1,97 @@
+        short question answer
+1. Define the term "Sitemap” in the planning phase.
+Answer: A sitemap is a structured outline of all the pages of a website. It helps in planning how pages are connected and makes navigation clear before actual 
+development starts.
+
+2. What is the purpose of the ”Launch” phase in web development?
+Answer: The launch phase is when the website is made live on the internet. It includes final checks, uploading files to the server, and making the site 
+accessible to users.
+
+3. Why is ”Documentation” important in the development lifecycle?
+Answer: Documentation is important because it records all technical details and processes. It helps developers understand, maintain, and update the website 
+in the future easily.
+
+4. Differentiate between Front-end and Back-end development.
+Answer: Front-end development: Deals with the visual part of the website that users see and interact with, such as layout, buttons, and colors.
+Back-end development: Works on the server side, handling databases, user data, and website logic.
+
+     long question answer
+
+5. ”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
+Answer: Planning is the most important phase because it creates a clear roadmap for the entire project. If planning is weak, mistakes happen later.
+Key activities in the planning phase include: Understanding client requirements Identifying target users Creating a sitemap Deciding website features and
+content Selecting technologies and tools Good planning saves time, reduces cost, and avoids confusion during development.
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
+Answer: The maintenance phase is iterative because it is done repeatedly after the website is launched. A website needs regular updates and improvements. 
+A website is never truly finished because: Content needs to be updated Bugs may appear New features may be required Security updates are needed User needs
+and technology keep changing, so continuous maintenance is necessary.
+
+7. Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
+Answer: Information gathering is the first step where developers collect details about the website’s purpose, goals, users, and content. This is done through
+meetings, interviews, and research. Understanding the target audience is crucial because: It helps design user-friendly layouts Content can be made more relevant 
+The website becomes more effective Without knowing the audience, the website may fail to meet user expectations
+
+                  Scenario-Based Questions 
+8. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive 
+argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
+Answer: For example when people try to buy things the site might not work right. They might not be able to pay for the things they want. This will make them 
+very unhappy. They will not come back to the site. The e-commerce site will lose money. The client will not be happy.
+
+We have to test the site to make sure it is safe. If the site is not safe people might be able to get into it and steal information. This will be very bad for 
+the client and the people who use the site.
+
+The client should not skip the testing part. It is very important to make sure the e-commerce site works right and is safe. If we do not test it we will have
+problems later. The e-commerce site is like a store. You have to make sure the store is safe and works right before you open it. That is what testing is, for.
+
+Skipping the testing phase might seem like it saves you time and money.. It can cause big problems later on when the website is live. The website is live. People
+are using it. Testing is important because it helps find mistakes and security issues before anyone gets to the website. Testing finds errors and bugs. If you do 
+not test the website, customer information like details and payment information is not safe. The customer data is at risk because it is not protected. Testing the
+website is necessary to protect customer data, like details and payment information.
+
+You might have some problems with your website. For example the shopping cart may not work right. People may have trouble paying when they check out. The website
+might also not work well on browsers or, on phones. If people have these kinds of problems they may not trust the website anymore. They will stop using the 
+shopping cart on the website. They will stop using the website.
+
+Testing is really important, for the website. It makes sure the website is secure user-friendly and reliable. If you skip testing it can cause loss. You will 
+also have user experience and damage to the companys reputation. Testing the website is crucial to avoid these problems. The website needs to be tested to make
+sure it is secure and easy to use
+
+9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects
+the layout. Analyze what went wrong in the process and how it should have been handled.
+Answer: The big issue here is that the developer did not do the planning and design work. The developer skipped these steps. The client did not get to see a plan
+for the website like a map of the site or a test version. This meant the client did not really know what the website would look like in terms of the website
+structure and the website layout. This led to problems, between the client and the developer because they did not understand each other about the website structure 
+and the website layout.
+
+When you do coding without getting approval Coding can be a big problem. You might have to do the work and that is a waste of time and effort. For example the 
+client did not like the layout so the developer had to do a lot of the Coding work. This meant the developer lost time and the client lost money because of the
+Coding that had to be done.
+
+To avoid this problem we should have made a sitemap and a design prototype first. Then we should have shared the sitemap and the design prototype with the client.
+
+We should have waited for the client to give us feedback and approval on the sitemap and the design prototype.
+
+After the client approved the sitemap and the design prototype we should have started coding.
+
+Making a plan and talking to the client are very important to avoid issues, like this with the sitemap and the design prototype
+
+10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of 
+the development lifecycle was neglected? Explain the activities involved in this phase.
+Answer: The maintenance phase involves a lot of activities These activities include updating the exam schedules on the university website. This means that the 
+people in charge of the website have to check the website to make sure that all the information on it is correct and up to date like the exam schedules. They also
+have to make sure that the university website is working properly and that students can easily find what they are looking for, such as the exam schedules.
+The maintenance phase is very important for the university website because it helps to keep the students engaged and interested, in using the website especially 
+when they can find the exam schedules.
+
+The part that people often forget about is the Maintenance phase. The Maintenance phase is really important because it helps keep the website fresh and working
+properly after it is live. The website needs to have things added to it and old things fixed so that it stays good and people can still use it.
+
+Things we do in this phase are updating the website with stuff like exam schedules and notices all the time. We also fix mistakes. Make sure the website works 
+properly and is secure. Maintenance is also about watching what users say about the website and making changes to make it better. We do things like improving 
+performance and making sure the website is safe for users. Maintenance of the website includes checking what users think and making changes, to the website to
+make it work better for the users of the website.
+
+Since exam schedules were not updated, students lost trust in the website and stopped visiting it. Proper maintenance would have ensured that information 
+remained current and the website continued to serve its purpose effectively.
+
